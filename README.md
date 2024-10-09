@@ -1,6 +1,7 @@
 Airbnb Booking Analysis EDA Project
 
 Introduction of Airbnb
+
 Airbnb is a popular online platform that allows individuals to list, discover, and book unique accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk, and has since become the largest and most successful home-sharing companies in the world.
 
 Airbnb allows hosts to list their homes, apartments, or other properties for short-term rentals, and provides a platform for travelers to search for and book these accommodations. The platform includes a variety of listing types, including entire homes, private rooms, and shared rooms, and offers a wide range of price points to suit different budgets.
